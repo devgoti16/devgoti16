@@ -40,25 +40,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  
-  <a href="https://www.openrobots.org/wiki/orocos-toolchain/" target="_blank" rel="noreferrer"> <img src="https://www.orocos.org/img/orocos-logo.png" alt="Orocos" width="40" height="40"/> </a>
-  <a href="https://ompl.kavrakilab.org/" target="_blank" rel="noreferrer"> <img src="https://ompl.kavrakilab.org/images/ompl.png" alt="OMPL" width="40" height="40"/> </a>
-  <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://www.coppeliarobotics.com/helpFiles/en/images/coppeliaSimIcon.png" alt="CoppeliaSim" width="40" height="40"/> </a>
-  <a href="https://robodk.com/" target="_blank" rel="noreferrer"> <img src="https://robodk.com/doc/en/RoboDK-Logo-500x500.png" alt="RoboDK" width="40" height="40"/> </a>
-  <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.yoctoproject.org/wp-content/uploads/sites/14/2018/03/YoctoProject_Logo_RGB.jpg" alt="Yocto Project" width="40" height="40"/> </a>
+ 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
-  <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wxWidgets" width="40" height="40"/> </a>
   <a href="https://www.khronos.org/opengl/" target="_blank" rel="noreferrer"> <img src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL" width="40" height="40"/> </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> </a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a6f857c4048896d6a73e95f1bcb31bf5/fusion-360.png" alt="Fusion 360" width="40" height="40"/> </a>
+
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="40" height="40"/> </a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="Gazebo" width="40" height="40"/> </a>
-  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"> <img src="https://moveit.ros.org/assets/images/moveit2_logo_black.png" alt="MoveIt" width="40" height="40"/> </a>
-  <a href="https://pcl.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://pcl.readthedocs.io/en/latest/_static/pcl_logo.png" alt="PCL" width="40" height="40"/> </a>
+
 </p>
 
 
