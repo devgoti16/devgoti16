@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20475
-Fork on GitHub6283
+
 <h1 align="center">Hi 👋, I'm Dev Goti</h1>
 <h3 align="center">Passionate about Robotics | Innovating the Future of Automation</h3>
 
@@ -9,7 +6,7 @@ Fork on GitHub6283
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgoti16" alt="devgoti16" /></a> </p>
 
-- 🌱 I’m currently learning **Perception, Vision, Control, Planning, etc**
+- 🌱 I’m currently learning **Perception, Vision, Control, Planning, etc of Robots**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devgoti16?tab=repositories](https://github.com/devgoti16?tab=repositories)
 
