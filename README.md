@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgoti16" alt="devgoti16" /></a> </p>
 
-- 🤖 I'm passionate about **Robotics, Automation, and AI**
+- 🤖 I'm passionate about **Robotics, Automation Vehicle, and AI**
 
 - 🌱 I'm currently learning **Perception, Vision, Control, Planning, and Navigation for Robots**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **devgoti1683@gmail.com**
 
-- 📄 Know about my experiences [find_my_resume](find_my_resume)
+- 📄 Know about my experiences [find_my_resume](find_my_resume) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -52,7 +52,6 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
 ![Conda](https://img.shields.io/badge/-Conda-333?style=flat&logo=anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 
 
 
