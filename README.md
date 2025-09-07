@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Goti</h1>
-<h3 align="center">Passionate about Robotics | Innovating the Future of Automation</h3>
+<h3 align="center">Passionate about Robotics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgoti16&label=Profile%20views&color=0e75b6&style=flat" alt="devgoti16" /> </p>
 
