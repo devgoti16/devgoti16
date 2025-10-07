@@ -7,15 +7,9 @@
 
 - 🤖 I'm passionate about **Robotics, Automation Vehicle, and AI**
 
-- 🌱 I'm currently learning **Perception, Vision, Control, Planning, and Navigation for Robots**
-
-- 🔬 Exploring **SLAM, ROS, Computer Vision, and Machine Learning for Robotics**
+- 🌱 I'm currently exploring **Perception, Vision, Control, Planning, and Navigation for Robots**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devgoti16?tab=repositories](https://github.com/devgoti16?tab=repositories)
-
-- 📫 How to reach me **devgoti1683@gmail.com**
-
-- 📄 Know about my experiences [find_my_resume](find_my_resume) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
