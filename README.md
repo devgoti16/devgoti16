@@ -20,20 +20,10 @@
 
 ---
 
-### Leadership & Projects
-- **Vice Captain, CSD Robocon NITK (July 2024 – April 2025):** Led 40+ members, managing operations, budgets, sponsorships, and outreach for ABU Robocon International competition readiness.  
-- **Electronics & Programming Member (May 2022 – April 2025):** Designed PCBs and power boards, integrated sensors (IMU, ultrasonic, encoders) and actuators (DC, servo, stepper motors), programmed control algorithms (PID, navigation) on Raspberry Pi & microcontrollers, and implemented ROS-based multi-sensor fusion.  
-- **Autonomous Mobile Robot Project (Sep 2023 – Jul 2024):** Built a holonomic robot for ABU Robocon ‘Harvest Day’ with object manipulation, ball detection via computer vision, and precise navigation using odometry, encoders, and IMU fusion.
-
----
-
 ### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/dev-goti" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@devgoti1683" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
