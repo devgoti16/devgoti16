@@ -38,11 +38,6 @@
 ---
 
 ### GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgoti16&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devgoti16" alt="GitHub Streak" />
