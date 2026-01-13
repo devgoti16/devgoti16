@@ -1,5 +1,3 @@
-https://cool-covers.vercel.app/api/get-cover?username=devgoti16&text=Hi+I'm+@devgoti16&fontFamily=Luckiest Guy&pattern=p4&textFontSize=4.5rem&textWordSpacing=25px
-
 <h1 align="center">Hi 👋, I'm Dev Goti</h1>
 <h3 align="center">Robotics Enthusiast | Autonomous Systems | AI & Computer Vision</h3>
 
