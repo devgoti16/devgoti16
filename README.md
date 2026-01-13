@@ -1,53 +1,51 @@
-<h1 align="center">Hi 👋, I'm Dev Goti</h1>
-<h3 align="center">Passionate about Robotics </h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgoti16&label=Profile%20views&color=0e75b6&style=flat" alt="devgoti16" /> </p>
+I'm **Dev Goti**, a passionate MS Electrical student at Texas A&M University. I love exploring the world of technology and robotics, and I'm always eager to learn something new!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgoti16" alt="devgoti16" /></a> </p>
+## About Me
 
+I'm currently based in **College Station, TX, USA**. As a graduate student, I focus on electrical engineering and robotics, aiming to innovate and improve automation technologies. Check out my [LinkedIn](https://www.linkedin.com/in/dev-goti/) for more insights about my professional journey.
 
-- I'm working on **Perception, Vision, Control, Planning, and Navigation for Robots**
-- All of my projects are available at [https://github.com/devgoti16?tab=repositories](https://github.com/devgoti16?tab=repositories)
+## Skills & Technologies
 
+cpp,matlab,ros,docker,flask,html,css,js,git,mongodb,postgres,vue,react,fastapi,githubactions,pytorch
 
+## Top Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev-goti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devgoti16" height="30" width="40" /></a>
-<a href="https://medium.com/@devgoti1683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devgoti1683" height="30" width="40" /></a>
-</p>
+- [Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning](https://github.com/devgoti16/Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning)
+  - A project focusing on real-time trajectory planning for a robotic arm using Deep Reinforcement Learning.
+  - ⭐ Stars: 21 | 🛠️ Primary Language: C++ | 🍴 Forks: 1
 
+- [PRM-Nav](https://github.com/devgoti16/PRM-Nav)
+  - An autonomous navigation system using Probabilistic Roadmaps (PRM) for collision-free path planning.
+  - ⭐ Stars: 0 | 🛠️ Primary Language: Python | 🍴 Forks: 0
 
+- [Noise-removal-in-ECG-Signals](https://github.com/devgoti16/Noise-removal-in-ECG-Signals)
+  - A project aimed at enhancing ECG signal quality through noise removal techniques.
+  - ⭐ Stars: 0 | 🛠️ Primary Language: MATLAB | 🍴 Forks: 1
 
-### Technologies & Tools
+- [Heuristic-and-Local-Optimization-Based-Controller-for-Efficient-Segment-Visitation](https://github.com/devgoti16/Heuristic-and-Local-Optimization-Based-Controller-for-Efficient-Segment-Visitation)
+  - Combines heuristic nearest-neighbor planning with local optimization for efficient path planning.
+  - ⭐ Stars: 0 | 🛠️ Primary Language: Python | 🍴 Forks: 0
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
-![Gazebo](https://img.shields.io/badge/-Gazebo-333?style=flat&logo=gazebo)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat&logo=raspberrypi)
-![MyCobot](https://img.shields.io/badge/-MyCobot-333?style=flat&logo=mycobot)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-![Conda](https://img.shields.io/badge/-Conda-333?style=flat&logo=anaconda)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+## GitHub Stats
 
+⚡ **Public Repositories:** 16  
+👥 **Followers:** 9  
+👤 **Following:** 24  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=radical)
 
+## Recent Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgoti16&show_icons=true&locale=en&layout=compact" alt="devgoti16" /></p>
+- Pushed changes to [devgoti16/devgoti16](https://github.com/devgoti16/devgoti16) on **January 13, 2026**.
+- Updated [devgoti16/devgoti16.github.io](https://github.com/devgoti16/devgoti16.github.io) on **January 10, 2026**.
+- Pushed updates to [Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning](https://github.com/devgoti16/Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning) on **December 17, 2025**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&locale=en" alt="devgoti16" /></p>
+## Latest Blog Posts
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devgoti16&" alt="devgoti16" /></p>
+Currently, I do not have any blog posts published. Stay tuned for future insights!
+
+## Connect with Me
+
+{"generic":"https://devgoti16.github.io/"}
