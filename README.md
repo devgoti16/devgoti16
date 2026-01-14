@@ -5,21 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgoti16" alt="devgoti16" /></a> </p>
 
-- 🤖 I'm passionate about **Robotics, Automation Vehicle, and AI**
+- I'm passionate about **Robotics, Automation Vehicle, and AI**
+- I'm currently working on **Perception, Vision, Control, Planning, and Navigation for Robots**
+- All of my projects are available at [https://github.com/devgoti16?tab=repositories](https://github.com/devgoti16?tab=repositories)
 
-- 🌱 I'm currently learning **Perception, Vision, Control, Planning, and Navigation for Robots**
 
-- 🔬 Exploring **SLAM, ROS, Computer Vision, and Machine Learning for Robotics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devgoti16?tab=repositories](https://github.com/devgoti16?tab=repositories)
-
-- 📫 How to reach me **devgoti1683@gmail.com**
-
-- 📄 Know about my experiences [find_my_resume](find_my_resume) 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
