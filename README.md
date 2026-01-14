@@ -93,37 +93,14 @@ I'm a **Master's student in Electrical Engineering** at **Texas A&M University**
 
 <div align="center">
   
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgoti16&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on: **Vision-Language-Action models for robotic manipulation**
-- 🌱 Learning: **Diffusion models for robot policy learning**
-- 👯 Looking to collaborate on: **Open-source robotics projects**
-- 💬 Ask me about: **ROS2, Computer Vision, Deep Learning for Robotics**
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Setting up my technical blog on robotics and AI
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **[Achievement/Award Name]** - Description
-- 📜 **[Certification Name]** - Issuing Organization
-- 🎓 **Publications** - [Link to research papers if any]
 
 ---
 
