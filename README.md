@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Dev Goti!
 
-### 🤖 Robotics Engineer | Computer Vision & AI Enthusiast | Autonomous Systems Developer
+### 🤖 Robotics Engineer | Computer Vision & Perception | Control and Planning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
