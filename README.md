@@ -10,38 +10,38 @@
 
 ## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'devgoti16' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/devgoti16/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'devgoti16' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devgoti16&theme=flat&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'devgoti16' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'devgoti16' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&langs_count=10&theme=buefy"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<!-- ⚠️ Important: Replace 'devgoti16' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=buefy&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devgoti16&theme=buefy&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dev-goti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://github.com/devgoti16"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/dev-goti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@devgoti1683"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> 
 
 </div>
 
