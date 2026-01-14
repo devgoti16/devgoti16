@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Dev Goti!
 
-### 🤖 Robotics Engineer | Computer Vision & Perception | Control and Planning
+### 🤖 Robotics Engineer | Computer Vision & AI Enthusiast | Autonomous Systems Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -93,14 +93,44 @@ I'm a **Master's student in Electrical Engineering** at **Texas A&M University**
 
 <div align="center">
   
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/devgoti16">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devgoti16&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgoti16&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=devgoti16&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on: **Vision-Language-Action models for robotic manipulation**
+- 🌱 Learning: **Diffusion models for robot policy learning**
+- 👯 Looking to collaborate on: **Open-source robotics projects**
+- 💬 Ask me about: **ROS2, Computer Vision, Deep Learning for Robotics**
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Coming soon! Setting up my technical blog on robotics and AI
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **[Achievement/Award Name]** - Description
+- 📜 **[Certification Name]** - Issuing Organization
+- 🎓 **Publications** - [Link to research papers if any]
 
 ---
 
