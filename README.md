@@ -110,48 +110,21 @@ I'm a **Master's student in Electrical Engineering** at **Texas A&M University**
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on: **Vision-Language-Action models for robotic manipulation**
-- 🌱 Learning: **Diffusion models for robot policy learning**
-- 👯 Looking to collaborate on: **Open-source robotics projects**
-- 💬 Ask me about: **ROS2, Computer Vision, Deep Learning for Robotics**
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Setting up my technical blog on robotics and AI
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **[Achievement/Award Name]** - Description
-- 📜 **[Certification Name]** - Issuing Organization
-- 🎓 **Publications** - [Link to research papers if any]
-
----
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-goti/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgoti1683@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devgoti16.github.io/)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "The best way to predict the future is to build it" 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
 ⭐️ From [Dev Goti](https://github.com/YOUR_GITHUB_USERNAME)
 
