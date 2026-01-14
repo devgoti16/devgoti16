@@ -1,51 +1,53 @@
-## Hi there! 👋
+<div align="center">
+  <h1 align="center">Hi there, I'm Dev Goti 👋</h1>
+  <h3 align="center">🚀 Robotics | Computer Vision and Perception | Control and Planning</h3>
+  
+  <a href="https://devgoti16.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-goti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:devgoti1683@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-I'm **Dev Goti**, a passionate MS Electrical student at Texas A&M University. I love exploring the world of technology and robotics, and I'm always eager to learn something new!
+<br/>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm currently based in **College Station, TX, USA**. As a graduate student, I focus on electrical engineering and robotics, aiming to innovate and improve automation technologies. Check out my [LinkedIn](https://www.linkedin.com/in/dev-goti/) for more insights about my professional journey.
+Hi! I am a **Master's student in Electrical Engineering** at the **Texas A&M University** (graduating May 2026).
 
-## Skills & Technologies
+I specialize in **Robot Learning**, **Foundation Models for Robotics (VLAs, VLM)**, **Computer Vision**, and **Planning & Perception** for Autonomous Systems. My goal is to bridge the gap between simulation and reality, deploying robust intelligence on physical hardware.
 
-cpp,matlab,ros,docker,flask,html,css,js,git,mongodb,postgres,vue,react,fastapi,githubactions,pytorch
+## 🛠️ Tech Stack
 
-## Top Projects
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23D14B29.svg?style=flat&logo=mathworks&logoColor=white)
+![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-- [Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning](https://github.com/devgoti16/Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning)
-  - A project focusing on real-time trajectory planning for a robotic arm using Deep Reinforcement Learning.
-  - ⭐ Stars: 21 | 🛠️ Primary Language: C++ | 🍴 Forks: 1
+### Robotics & Middleware
+![ROS2](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/NVIDIA-Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-orange?style=flat&logo=gazebo&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-blue?style=flat)
 
-- [PRM-Nav](https://github.com/devgoti16/PRM-Nav)
-  - An autonomous navigation system using Probabilistic Roadmaps (PRM) for collision-free path planning.
-  - ⭐ Stars: 0 | 🛠️ Primary Language: Python | 🍴 Forks: 0
+### Libraries & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat&logo=cmake&logoColor=white)
 
-- [Noise-removal-in-ECG-Signals](https://github.com/devgoti16/Noise-removal-in-ECG-Signals)
-  - A project aimed at enhancing ECG signal quality through noise removal techniques.
-  - ⭐ Stars: 0 | 🛠️ Primary Language: MATLAB | 🍴 Forks: 1
+## 🏗️ Selected Projects
 
-- [Heuristic-and-Local-Optimization-Based-Controller-for-Efficient-Segment-Visitation](https://github.com/devgoti16/Heuristic-and-Local-Optimization-Based-Controller-for-Efficient-Segment-Visitation)
-  - Combines heuristic nearest-neighbor planning with local optimization for efficient path planning.
-  - ⭐ Stars: 0 | 🛠️ Primary Language: Python | 🍴 Forks: 0
-
-## GitHub Stats
-
-⚡ **Public Repositories:** 16  
-👥 **Followers:** 9  
-👤 **Following:** 24  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed changes to [devgoti16/devgoti16](https://github.com/devgoti16/devgoti16) on **January 13, 2026**.
-- Updated [devgoti16/devgoti16.github.io](https://github.com/devgoti16/devgoti16.github.io) on **January 10, 2026**.
-- Pushed updates to [Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning](https://github.com/devgoti16/Dynamic-Trajectory-Planning-of-a-7DOF-Robotic-Arm-Using-Deep-Reinforcement-Learning) on **December 17, 2025**.
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts published. Stay tuned for future insights!
-
-## Connect with Me
-
-{"generic":"https://devgoti16.github.io/"}
+---
+<div align="center">
+  <p>Connect with me:</p>
+  <a href="https://www.linkedin.com/in/dev-goti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://devgoti16.github.io/"><img src="https://img.shields.io/badge/Portfolio-Green?style=social&logo=googlechrome" alt="Portfolio"></a>
+</div>
