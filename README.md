@@ -92,37 +92,36 @@ I'm a **Master's student in Electrical Engineering** at **Texas A&M University**
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<a href="https://github.com/devgoti16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devgoti16&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+### 📈 Contribution Stats
+<img src="https://github-readme-stats.vercel.app/api?username=devgoti16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devgoti16&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="48%" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=devgoti16&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoti16&layout=donut&langs_count=8&theme=tokyonight&hide_border=false" alt="Language Donut" width="48%" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=devgoti16&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgoti16&theme=tokyo-night&hide_border=false" alt="Contribution Graph" width="95%" />
+
+### 🎯 Additional Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgoti16&theme=tokyonight" alt="Profile Summary" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgoti16&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgoti16&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgoti16&theme=tokyonight" alt="Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devgoti16&theme=tokyonight&utcOffset=8" alt="Productive Time" width="48%" />
+
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=devgoti16&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
-
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-goti/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgoti1683@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devgoti16.github.io/)
-
-</div>
-
----
-
 <div align="center">
 
 
