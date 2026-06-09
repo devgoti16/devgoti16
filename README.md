@@ -29,37 +29,62 @@ I build autonomous robotic systems focusing on how machines perceive complex env
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <strong>💻 Languages</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-C++-333?style=flat-square&logo=cplusplus" /><br/>
-      <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" /><br/>
+    <!-- COLUMN 1: LANGUAGES & INFRA -->
+    <td width="33%" valign="top">
+      <strong>💻 Core Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-C++%20(11/%2014/%2017)-333?style=flat-square&logo=cplusplus" /><br/>
+      <img src="https://img.shields.io/badge/-Python%203-333?style=flat-square&logo=python" /><br/>
       <img src="https://img.shields.io/badge/-C-333?style=flat-square&logo=c" /><br/>
-      <img src="https://img.shields.io/badge/-MATLAB-333?style=flat-square&logo=mathworks" />
+      <img src="https://img.shields.io/badge/-MATLAB%20%2F%20Simulink-333?style=flat-square&logo=mathworks" /><br/>
+      <img src="https://img.shields.io/badge/-Bash%20Shell-333?style=flat-square&logo=gnubash" />
     </td>
-    <td width="25%" valign="top">
-      <strong>🤖 Robotics & Control</strong><br/><br/>
+    <!-- COLUMN 2: ROBOTICS & SIM -->
+    <td width="33%" valign="top">
+      <strong>🤖 Autonomy & Robotics Frameworks</strong><br/><br/>
       <img src="https://img.shields.io/badge/-ROS%20%2F%20ROS%202-333?style=flat-square&logo=ros" /><br/>
-      <img src="https://img.shields.io/badge/-Gazebo-333?style=flat-square&logo=gazebo" /><br/>
-      <img src="https://img.shields.io/badge/-PCL%20(Point%20Cloud)-333?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat-square&logo=raspberrypi" />
+      <img src="https://img.shields.io/badge/-Gazebo%20Sim-333?style=flat-square&logo=gazebo" /><br/>
+      <img src="https://img.shields.io/badge/-MoveIt-333?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/-Nav2%20(Navigation2)-333?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/-Colcon%20%2F%20Catkin-333?style=flat-square" />
     </td>
-    <td width="25%" valign="top">
-      <strong>🧠 Computer Vision & AI</strong><br/><br/>
+    <!-- COLUMN 3: AI & CV -->
+    <td width="34%" valign="top">
+      <strong>🧠 AI, Perception & Computer Vision</strong><br/><br/>
       <img src="https://img.shields.io/badge/-PyTorch-333?style=flat-square&logo=pytorch" /><br/>
       <img src="https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv" /><br/>
-      <img src="https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow" /><br/>
-      <img src="https://img.shields.io/badge/-Scikit--Learn-333?style=flat-square&logo=scikitlearn" />
+      <img src="https://img.shields.io/badge/-TensorFlow%20%2F%20Keras-333?style=flat-square&logo=tensorflow" /><br/>
+      <img src="https://img.shields.io/badge/-Gymnasium%20(OpenAI%20Gym)-333?style=flat-square&logo=openai" /><br/>
+      <img src="https://img.shields.io/badge/-Weights%20%26%20Biases-333?style=flat-square&logo=weightsandbiases" />
     </td>
-    <td width="25%" valign="top">
-      <strong>⚙️ Infra & Tools</strong><br/><br/>
+  </tr>
+  <tr>
+    <!-- COLUMN 4: MATH & ALGORITHMS -->
+    <td width="33%" valign="top">
+      <strong>📐 Kinematics & Spatial Math</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Eigen%20(C++%20Math)-333?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/-NumPy%20%2F%20SciPy-333?style=flat-square&logo=numpy" /><br/>
+      <img src="https://img.shields.io/badge/-SymPy-333?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/-Point%20Cloud%20Library%20(PCL)-333?style=flat-square" />
+    </td>
+    <!-- COLUMN 5: DEV OPS & INFRA -->
+    <td width="33%" valign="top">
+      <strong>⚙️ Dev Infrastructure</strong><br/><br/>
       <img src="https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker" /><br/>
       <img src="https://img.shields.io/badge/-Linux%20%2F%20Ubuntu-333?style=flat-square&logo=linux" /><br/>
-      <img src="https://img.shields.io/badge/-Git%20%2F%20GitHub-333?style=flat-square&logo=git" /><br/>
-      <img src="https://img.shields.io/badge/-Conda-333?style=flat-square&logo=anaconda" />
+      <img src="https://img.shields.io/badge/-Git%20%2F%20GitHub%20Actions-333?style=flat-square&logo=git" /><br/>
+      <img src="https://img.shields.io/badge/-CMake-333?style=flat-square&logo=cmake" /><br/>
+      <img src="https://img.shields.io/badge/-Anaconda%20%2F%20Conda-333?style=flat-square&logo=anaconda" />
+    </td>
+    <!-- COLUMN 6: HARDWARE & INTERFACES -->
+    <td width="34%" valign="top">
+      <strong>🔌 Embedded & Hardware</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat-square&logo=raspberrypi" /><br/>
+      <img src="https://img.shields.io/badge/-Arduino-333?style=flat-square&logo=arduino" /><br/>
+      <img src="https://img.shields.io/badge/-LiDAR%20%26%20IMU%20Sensors-333?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/-CAN%20Bus%20%2F%20Serial-333?style=flat-square" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Activity & Metrics
