@@ -58,23 +58,6 @@ I build autonomous robotic systems focusing on how machines perceive complex env
     </td>
   </tr>
   <tr>
-    <!-- COLUMN 4: MATH & ALGORITHMS -->
-    <td width="33%" valign="top">
-      <strong>📐 Kinematics & Spatial Math</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-Eigen%20(C++%20Math)-333?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/-NumPy%20%2F%20SciPy-333?style=flat-square&logo=numpy" /><br/>
-      <img src="https://img.shields.io/badge/-SymPy-333?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/-Point%20Cloud%20Library%20(PCL)-333?style=flat-square" />
-    </td>
-    <!-- COLUMN 5: DEV OPS & INFRA -->
-    <td width="33%" valign="top">
-      <strong>⚙️ Dev Infrastructure</strong><br/><br/>
-      <img src="https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker" /><br/>
-      <img src="https://img.shields.io/badge/-Linux%20%2F%20Ubuntu-333?style=flat-square&logo=linux" /><br/>
-      <img src="https://img.shields.io/badge/-Git%20%2F%20GitHub%20Actions-333?style=flat-square&logo=git" /><br/>
-      <img src="https://img.shields.io/badge/-CMake-333?style=flat-square&logo=cmake" /><br/>
-      <img src="https://img.shields.io/badge/-Anaconda%20%2F%20Conda-333?style=flat-square&logo=anaconda" />
-    </td>
     <!-- COLUMN 6: HARDWARE & INTERFACES -->
     <td width="34%" valign="top">
       <strong>🔌 Embedded & Hardware</strong><br/><br/>
