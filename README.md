@@ -21,12 +21,7 @@
 
 ### 🤖 About Me
 
-I build autonomous robotic systems designed to hold up outside the lab—focusing on how machines perceive complex environments, estimate state, and safely plan paths through dynamic spaces.
-
-*   **🏢 Current Role:** Robotics & AI Engineer Co-op at **Piaggio Fast Forward** (Boston, MA), developing perception and autonomy modules for mobile hardware.
-*   **🎓 Academics:** Master's student specialized in Robotics and Machine Learning at **Texas A&M University**.
-*   **🧠 Research & Core Focus:** Robust SLAM outlier rejection (GNC-TLS), Deep Reinforcement Learning (PPO, TD3) trajectory planners, LiDAR-Camera sensor fusion, and safe control filters (CBF).
-*   **🏆 Roots:** Former Vice-Captain & Lead Programmer for ABU Robocon at **NIT Karnataka**, building competition-grade industrial mobile robots from the ground up.
+I build autonomous robotic systems focusing on how machines perceive complex environments, estimate state, and safely plan paths through dynamic spaces.
 
 ---
 
